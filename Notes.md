@@ -1,4 +1,4 @@
-#Library of Commands
+# Library of Commands
 
 - void setup()                   initalize and run only once
 - void loop()                    main method; repeating code for the Arduino
